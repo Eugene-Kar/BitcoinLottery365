@@ -1,5 +1,4 @@
 # BitcoinLottery365
-<<<<<<< HEAD
 
 Browser-only, local-first participation miner Proof of Concept.
 
@@ -42,6 +41,6 @@ OS throttling/suspension can still occur.
 
 ## License
 GNU GPL v3 (see [LICENSE](LICENSE)).
-=======
+
 If you don't play - you don't win!
->>>>>>> 6d1583ccaa311e8e4469ea79bc89aba43611bce5
+
