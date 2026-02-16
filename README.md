@@ -42,5 +42,7 @@ OS throttling/suspension can still occur.
 ## License
 GNU GPL v3 (see [LICENSE](LICENSE)).
 
+Copyright (c) 2025 Eugene-Kar
+
 If you don't play - you don't win!
 
