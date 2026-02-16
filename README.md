@@ -1,4 +1,5 @@
 # BitcoinLottery365
+You can't win if you don't play!
 
 Browser-only, local-first participation miner Proof of Concept.
 
@@ -44,5 +45,5 @@ GNU GPL v3 (see [LICENSE](LICENSE)).
 
 Copyright (c) 2025 Eugene-Kar
 
-If you don't play - you don't win!
+
 
